@@ -28,10 +28,11 @@ This series transforms you from zero to confident practitioner – no hidden pre
 | # | Course | Focus | Key Outcomes |
 |---|--------|-------|---------------|
 | 1 | [Linear Algebra](#1-linear-algebra) | Vectors, matrices, eigendecomposition, SVD | PCA, word embeddings, attention, latent spaces |
-| 2 | [Statistics & Probability](#2-statistics--probability) | Descriptive stats, inference, MLE, Bayesian, hypothesis testing | Model evaluation, uncertainty, A/B testing, generative metrics |
-| 3 | [Calculus I – Single Variable](#3-calculus-i--single-variable) | Derivatives, chain rule, optimization, integration | Gradient descent, backprop foundations, learning rates |
-| 4 | [Calculus II – Multivariable](#4-calculus-ii--multivariable) | Partial derivatives, gradient, Lagrange multipliers | Training neural nets, VAE reparameterization, constraints |
-| 5 | [Calculus III – Vector Calculus](#5-calculus-iii--vector-calculus) | Jacobians, Hessians, divergence, policy gradients | Backpropagation, diffusion score functions, natural gradients |
+| 2 | [Statistics ](#2-statistics) | Descriptive stats, inference, MLE, Bayesian, hypothesis testing | Model evaluation, uncertainty, A/B testing, generative metrics |
+| 3 | [ Probability](#3-probability) | 
+| 4 | [Calculus I – Single Variable](#4-calculus-i--single-variable) | Derivatives, chain rule, optimization, integration | Gradient descent, backprop foundations, learning rates |
+| 5 | [Calculus II – Multivariable](#5-calculus-ii--multivariable) | Partial derivatives, gradient, Lagrange multipliers | Training neural nets, VAE reparameterization, constraints |
+| 6 | [Calculus III – Vector Calculus](#6-calculus-iii--vector-calculus) | Jacobians, Hessians, divergence, policy gradients | Backpropagation, diffusion score functions, natural gradients |
 
 ---
 
@@ -57,6 +58,7 @@ This series transforms you from zero to confident practitioner – no hidden pre
 ## 2. Statistics & Probability
 
 **File:** [`statistics_for_ml.md`](statistics_for_ml.md)
+**File:** [`Probability.md`](Probability.md)
 
 ### What you'll learn
 - Descriptive statistics: mean/median/mode, variance, skewness  
